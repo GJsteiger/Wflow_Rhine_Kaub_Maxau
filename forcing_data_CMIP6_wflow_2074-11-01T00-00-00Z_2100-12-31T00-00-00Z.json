@@ -1,0 +1,9 @@
+{
+    "start_time": "2074-11-01T00:00:00Z",
+    "end_time": "2100-12-31T00:00:00Z",
+    "directories": [
+        "/home/gsteiger/Wflow model/esmvaltool_output/ewcrepalrlzmqh_20240614_091935/work/diagnostic/script",
+        "/home/gsteiger/Wflow model/esmvaltool_output/ewcrep34v9_x7t_20240614_092357/work/diagnostic/script",
+        "/home/gsteiger/Wflow model/esmvaltool_output/ewcrepolofk9o2_20240614_092610/work/diagnostic/script"
+    ]
+}
